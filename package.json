@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab-12.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fastify": "^2.0.0-rc.6",
+    "fastify-cli": "^1.4.0",
+    "fastify-static": "^2.3.3",
+    "node-telegram-bot-api": "^0.40.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+      "start": "node lab-12.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
